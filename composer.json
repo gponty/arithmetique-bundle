@@ -1,0 +1,9 @@
+{
+  "name": "gponty/arithmetique",
+  "description": "Un tuto pour creer un bundle symfony",
+  "type": "symfony-bundle",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.4"
+  }
+}
